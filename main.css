@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	background: url("images/panda map.jpg");
+	background: url("images/panda map2.jpg");
 	background-size: cover;
 
 }
@@ -60,7 +60,7 @@ nav li{
 	margin-top: 15px;
 	font-family: liebedoris, sans-serif;
 	font-style: italic;
-	font-size: 38px;
+	font-size: 35px;
 }
 footer{
 	text-align: center;
