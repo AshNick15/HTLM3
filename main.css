@@ -19,7 +19,7 @@ header{
 }
 
 header h1 {
-	font-size: 55px;
+	font-size: 80px;
 	font-family: liebedoris, sans-serif;
 	font-weight: 700;
 	font-style: italic;
@@ -30,6 +30,51 @@ nav{
 	width: 100%;
 	text-align: center;
 }
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li{
+	display: inline;
+}
+
+.left{
+	width: 400px;
+	float: left;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	
+}
+
+.right{
+	width: 400px;
+	float: left;
+	margin-top: 15px;
+	font-family: liebedoris, sans-serif;
+	font-style: italic;
+	font-size: 32px;
+}
+footer{
+	text-align: center;
+	clear: both;
+	font-family: liebedoris, sans-serif;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
